@@ -6,7 +6,7 @@ description: MDX Example Description ...
 categories: ["react", "node"]
 keywords: ["react"]
 banner: "./a.png"
-published: false
+published: true
 ---
 
 Showcasing how MDX for Gatsby.js works ... The Counter component is imported explicitly, but since we are using MDXProvider, we can also define global components which don't need to be imported (e.g. Link, YouTube).
